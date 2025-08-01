@@ -1,0 +1,49 @@
+
+body {
+  margin: 0;
+  font-family: 'Helvetica Neue', sans-serif;
+  background-color: #ffffff;
+  color: #222;
+  line-height: 1.6;
+}
+.container {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+h1, h2 {
+  font-weight: 600;
+}
+h1 {
+  font-size: 2rem;
+}
+.project {
+  margin-bottom: 3rem;
+}
+.role {
+  font-style: italic;
+  margin-bottom: 0.5rem;
+}
+.thumb {
+  width: 100%;
+  max-width: 300px;
+  margin: 1rem 0;
+}
+iframe {
+  width: 100%;
+  max-width: 560px;
+  height: 315px;
+  border: none;
+  display: block;
+  margin-top: 1rem;
+}
+.contact {
+  margin-top: 4rem;
+}
+.contact a {
+  color: #0077b5;
+  text-decoration: none;
+}
+.contact a:hover {
+  text-decoration: underline;
+}
